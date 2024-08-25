@@ -8,6 +8,7 @@ button {
     transition:1.0s ease;
     font-style:italic;
     display: block;
+    justify-content: center; 
 }
 
 button:hover {
