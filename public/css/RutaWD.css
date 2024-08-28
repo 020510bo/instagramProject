@@ -35,4 +35,6 @@ body{
 
 .wd{
     padding: 10px;
+    
+    justify-content: center; 
 }
