@@ -31,3 +31,8 @@ body{
     height: 100vh; 
     flex-direction: column;
 }
+
+
+.wd{
+    padding: 10px;
+}
