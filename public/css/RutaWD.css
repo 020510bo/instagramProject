@@ -9,6 +9,10 @@ button {
     font-style:italic;
     display: block;
     transition: 0.5s ease;
+
+    
+    justify-content: center; 
+    align-items: center; 
 }
 
 button:hover {
@@ -31,8 +35,5 @@ body{
 
 .wd{
     padding: 10px;
-
-    justify-content: center; 
-    align-items: center; 
 }
 
