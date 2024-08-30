@@ -26,12 +26,13 @@ body{
 }
 
 .caja{
-    display: block;
-    height: 100vh; 
-    flex-direction: column;
     padding: 10px;
+    display: flex;
+    position: inherit;
+    top: 50%;
     justify-content: center; 
     align-items: center; 
+    height: 100vh;  
 }
 
 .wd{
