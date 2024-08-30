@@ -1,5 +1,4 @@
 button {
-    padding: 30px 40px;
     font-size: 36px;
     background-color: #989998;
     color: rgb(12, 12, 12);
@@ -24,7 +23,6 @@ body{
 }
 
 .caja{
-    padding: 10px;
     display: block;
     justify-content: center; 
     align-items: center; 
