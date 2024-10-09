@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+.icon {
+    position: relative;
+    left: 93%;  
+    top: 5px;
+}
+
+.container {
+    font-family: "Afacad Flux", sans-serif;
+    font-size: 20px;
+}
+
+h2{
+    font-family: "Afacad Flux", sans-serif;
+    font-size: 35px;
+    font-style: italic;
+    color: rgb(8, 8, 8);
+}
+
+p{
+    font-family: "Afacad Flux", sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(255, 250, 250);
+}
