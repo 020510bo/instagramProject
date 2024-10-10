@@ -6,3 +6,8 @@ let tag4 = document.querySelector(".descargar");
 tag1.addEventListener("click", () => {
     window.location.href = "caracteristicas.html";
 });
+
+tag3.addEventListener("click", () => {
+    window.location.href = "porque.html";
+});
+
